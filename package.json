@@ -1,0 +1,25 @@
+{
+  "name": "puppeteer-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagisuke/puppeteer-v2.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yagisuke/puppeteer-v2/issues"
+  },
+  "homepage": "https://github.com/yagisuke/puppeteer-v2#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
