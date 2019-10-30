@@ -33,7 +33,7 @@ const autoScroll = async () => {
   )
   console.log(`DARK MODE: ${isDarkMode}`)
   await page.screenshot({
-    path: `output/dark.png`,
+    path: `output/scheme-dark.png`,
     fullPage: true
   })
   console.log('end => DARK MODE!!')
@@ -47,7 +47,7 @@ const autoScroll = async () => {
   )
   console.log(`LIGHT MODE: ${isLightMode}`)
   await page.screenshot({
-    path: `output/light.png`,
+    path: `output/scheme-light.png`,
     fullPage: true
   })
   console.log('end => LIGHT MODE!!')
