@@ -1,5 +1,5 @@
 # puppeteer-v2
-Puppteer の [v2](https://github.com/GoogleChrome/puppeteer/releases/tag/v2.0.0) で変更されたAPIを3つ紹介します。  
+Puppteer の [v2](https://github.com/GoogleChrome/puppeteer/releases/tag/v2.0.0) で更新されたAPIを3つ紹介します。  
 1と2に関してはサンプルコードも用意しました。
 
 ## 1. [page.emulatemediafeaturesfeatures(features)](https://github.com/GoogleChrome/puppeteer/blob/v2.0.0/docs/api.md#pageemulatemediafeaturesfeatures)
